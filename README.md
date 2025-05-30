@@ -22,9 +22,9 @@ Aplikácia je rozdelená do troch hlavných modulov:
 2. Otvorte MATLAB a prejdite do adresára projektu:
    ```bash
    cd cesta/k/portal-crane-simulation
-3. Otvorte hlavný súbor aplikácie (PortalCraneApp.mlapp) v MATLAB App Designer:
+3. Otvorte hlavný súbor aplikácie (MainMenu.mlapp) v MATLAB App Designer:
    ```bash
-   appdesigner('PortalCraneApp.mlapp')
+   appdesigner('MainMenu.mlapp')
 4. Uistite sa, že máte nainštalované všetky požadované MATLAB toolboxes.
 
 ## Používanie
